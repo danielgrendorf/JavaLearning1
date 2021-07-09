@@ -160,9 +160,25 @@ hogy lehetne optimalizalni?
             }
         }
 
+        int N = 2;
+        int multiplier = 0;
+        while(multiplier < 10){
+            multiplier++;
+            System.out.println(N * multiplier);
+
+
+        }
+
+        int t = sc.nextInt();
+        for(int i = 0; i < t; i++){
+            long x = sc.nextLong();
+        }
+
+
+        }
+
 
     }
-}
 
 
 //irjuk ki a 25 es a 37 kozos osztoinak az osszeget, (minden kozos osztot osszeadva)
